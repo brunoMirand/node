@@ -19,7 +19,7 @@ app.get('/map/teste', (req, res) => {
 app.get('/map', (req, res) => {
     const mapper = createMapper();
     const source = {
-                        "nome": "Bruno",
+                        "nome": "Brunooo",
                         "idade": {
                             "idade1": "22 anos",
                             "idade2": "24 anos",
